@@ -26,9 +26,9 @@
     --neutral: #d4d4d4;
     --faint: #222;
 
-    --primary-color: #363959;
+    --primary-color: var(--neutral);
     --accent-color: #0a84ff;
-    --secondary-accent-color: #452981;
+    --secondary-accent-color: #4a4a4f;
     --secondary-accent-contrast: var(--neutral);
   }
 }
