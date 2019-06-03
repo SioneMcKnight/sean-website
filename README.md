@@ -33,7 +33,7 @@ I contribute to some projects and documentation on GitHub.
 
 Follow my day-to-day musings via my blog, Twitter, or Mastodon.
 
-<a href="https://blog.ryanleesipes.me" class="read-more blog"><i class="fas fa-fw fa-blog"></i>Read posts on Medium</a>
+<a href="https://blog.ryanleesipes.me" class="read-more blog"><i class="fas fa-fw fa-blog"></i>Read posts on blog</a>
 
 <a rel="me" href="https://mastodon.social/@ryanleesipes" class="read-more mastodon"><i class="fab fa-fw fa-mastodon"></i>Follow on Mastodon</a>
 
