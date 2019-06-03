@@ -1,24 +1,20 @@
 # Site-wide generic info (overridable per-page)
-title: CassidyJames.com
-description: The personal site and résumé of Cassidy James Blaede
-author: Cassidy James Blaede
-theme-color: "#452981"
+title: ryanleesipes.me
+description: The personal site and résumé of Ryan Sipes
+author: Ryan Lee Sipes
+theme-color: "#0a84ff"
 
 # Site-wide hardcoded (non-overridable by pages)
 made-in: Colorado
-birthday: '1992-02-01 00:08:00 -0600'
+birthday: '1990-03-25 00:08:00 -0600'
 
 # Site-wide social info
-email: c@ssidyjam.es
-twitter: "@CassidyJames"
+email: ryan@sipes.us
+twitter: "@ryanleesipes"
 github:
-  user: cassidyjames
-  repo: cassidyjames.com
-square: "$cassidyjames"
-google-plus: "+CassidyJames"
-medium: "@cassidyjames"
-instagram: cassidy.james.blaede
-gravatar: 41275ecc8271aca852ce2c0ff72d2610 # Gravatar md5 hash
+  user: ryanleesipes
+  repo: ryanleesipes.github.io
+gravatar: 07d01f23cef0e26326276a8d519586fe # Gravatar md5 hash
 
 # Settings
 permalink: pretty
