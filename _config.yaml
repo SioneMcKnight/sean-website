@@ -1,20 +1,20 @@
 # Site-wide generic info (overridable per-page)
-title: ryanleesipes.me
-description: The personal site and résumé of Ryan Sipes
-author: Ryan Lee Sipes
-theme-color: "#0a84ff"
+title: seanmcknight.github.io
+description: The personal site and résumé of Sean McKnight
+author: Sean McKnight
+theme-color: "#0a74ff"
 
 # Site-wide hardcoded (non-overridable by pages)
 made-in: Colorado
-birthday: '1990-03-25 00:08:00 -0600'
+birthday: '1992-08-06 00:08:00 -0600'
 
 # Site-wide social info
-email: ryan@sipes.us
-twitter: "@ryanleesipes"
+email: sionemcknight@gmail.com
+twitter: "@seankmcknight
 github:
-  user: ryanleesipes
-  repo: ryanleesipes.github.io
-gravatar: 07d01f23cef0e26326276a8d519586fe # Gravatar md5 hash
+  user: sionemcknight
+  repo: seanmcknight.github.io
+gravatar: ae28be3e678171c14d6bc4b94e90672e # Gravatar md5 hash
 
 # Settings
 permalink: pretty
