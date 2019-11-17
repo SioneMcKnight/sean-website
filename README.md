@@ -4,7 +4,7 @@
 
 <div class="summary">
     <ul class="fa-ul">
-        <li><i class="fa-li fa fa-briefcase"></i>Core Security Engineering Student at SecureSet Academy</a></li>
+        <li><i class="fa-li fa fa-briefcase"></i>Core Security Engineering Student at SecureSet Academy</li>
         <li><i class="fa-li fa fa-birthday-cake"></i><span id="age">{% include age.html %}</span> Years Old</li>
         <li><i class="fa-li fa fa-map-marker"></i>Lives in <a href="https://goo.gl/maps/HiSWKqKGNC9gPAQt6">Colorado Springs, CO</a></li>
     </ul>
@@ -33,7 +33,7 @@ I contribute to some projects and documentation on GitHub.
 
 Follow my day-to-day musings via my Instagram.
 
-<a href="https://www.instagram.com/caseanblanca/" class="read-more instagram"><i class="fas fa-fw fa-instagram"></i>View Posts</a>
+<a href="https://www.instagram.com/caseanblanca/" class="read-more instagram"><i class="fab fa-fw fa-instagram"></i>View Posts</a>
 
 <!--<a rel="me" href="https://mastodon.social/@ryanleesipes" class="read-more mastodon"><i class="fab fa-fw fa-mastodon"></i>Follow on Mastodon</a>
 
